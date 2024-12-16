@@ -2,7 +2,7 @@
 
 ## Giriş
 
-**GmailQuickstart**, Gmail API'sine bağlanarak en son e-postayı alan ve içeriğinden altı haneli bir kod çıkaran Java tabanlı bir yardımcı araçtır. Araç, kimlik doğrulama için OAuth 2.0 kullanır ve e-posta içeriğini hem düz metin hem de HTML formatında işleyebilir.
+**gmail-otp-fetcher**, Gmail API'sine bağlanarak en son e-postayı alan ve içeriğinden altı haneli bir kod çıkaran Java tabanlı bir yardımcı araçtır. Araç, kimlik doğrulama için OAuth 2.0 kullanır ve e-posta içeriğini hem düz metin hem de HTML formatında işleyebilir.
 
 Bu proje, e-postalarla gönderilen tek seferlik şifreleri (OTP) doğrulamak veya e-postalarda gömülü kodları çıkarmak gibi senaryolarda faydalıdır.
 
