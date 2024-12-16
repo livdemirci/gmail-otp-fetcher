@@ -196,7 +196,7 @@ for (Element element : doc.select("div, span, p, strong")) {
 
 Farklı tag veya attribute bazlı seçiciler kullanın:
 
-Örneğin, <div class="code-container"> gibi bir yapı varsa:
+Örneğin, **<div class="code-container">** gibi bir yapı varsa:
 java
 
 doc.select("div.code-container");
